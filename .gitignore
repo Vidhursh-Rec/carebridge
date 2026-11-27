@@ -1,0 +1,6 @@
+.superpowers/
+__pycache__/
+*.pyc
+shots/
+tests/forbidden.local.txt
+tools/
